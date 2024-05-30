@@ -501,7 +501,7 @@ void doObjectsActions() {
 // управление
 
 void GameControl(tObject *obj) {
-	RefreshKeyboardStatus();
+	//RefreshKeyboardStatus();
 	
 	if(menu == GAMEMODE_PLAY) {
 		float horizonSpeed = 1;

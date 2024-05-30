@@ -1,7 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-#define GAME_DELAY_CONSTANT		30 // в видеоуроке 10
+#define GAME_DELAY_CONSTANT		0 // в видеоуроке 10
 #define GAME_DELAY_NEXTLEVEL	600 // в видеоуроке 1000
 #define GAME_DELAY_PLAYERDEAD	200 // в видеоуроке 500
 #define GAME_DELAY_WIN 			2000
