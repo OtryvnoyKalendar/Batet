@@ -16,12 +16,10 @@
 void initConsoleMode() {
 	setConsoleSize(MAP_WIDTH, MAP_HEIGHT);
 	OpenNcursesMode();
-	OpenKeysMode();
 }
 
 void quitConsoleMode() {
 	CloseNcursesMode();
-	CloseKeysMode();
 }
 
 void BeforeCloseGame() {
